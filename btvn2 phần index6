@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="header"></div>
+    <div id="ok"></div>
+    <p id="header"></p>
+    <pre id="header"></pre>
+    <a href="" id="banner"></a>
+    <img src="" alt="" id="intro">
+    <div class="ok">
+
+    </div>
+    <p class="haylam"></p>
+    <a href="" class="you"></a>
+    <div class="intro" id="banner"></div>
+    <div class="pi" id="r"></div>
+    <img src="" alt="" class="intro" id="banner2">
+    <div class="class" id="ok"></div>
+    <div class="class" id="ok"></div>
+    <p></p>
+    <pre><input type="text"></pre>
+    <p></p>
+    <pre></pre>
+    <pre>
+        <p></p>
+    </pre>
+    <div class="class" id="ul">
+        <div></div>
+        <pre></pre>
+    </div>
+    <li></li>
+    <li></li>
+    <p></p>
+    <pre>
+        <div></div>
+    </pre>
+    <p class="intro banner es"></p><p class="clis"></p>
+    
+</body>
+</html>
